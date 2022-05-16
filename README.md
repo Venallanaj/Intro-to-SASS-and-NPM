@@ -4,7 +4,7 @@
 SASS stands for Syntactically Awesome Stylesheet. It is a CSS pre-processore scripting language
 that is interpreted or compiled into Cascading Style Sheetes (CSS)
 
-Way Use SASS?
+<h2>Way Use SASS?</h2>
 
 Stylesheets are getting larger, more complex and harder to maintain. This is where pre-preocessore can help
 
