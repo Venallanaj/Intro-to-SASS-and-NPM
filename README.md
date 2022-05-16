@@ -1,6 +1,6 @@
 # Intro-to-SASS-and-NPM
 
-What is SASS?
+<h1>What is SASS?</h1>
 SASS stands for Syntactically Awesome Stylesheet. It is a CSS pre-processore scripting language
 that is interpreted or compiled into Cascading Style Sheetes (CSS)
 
