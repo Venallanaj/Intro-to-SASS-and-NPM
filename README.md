@@ -78,3 +78,19 @@ Using @import in Sass, you keep your code DRY (Don't Reapet yourself)
 For this, keep related code in separate files and import them into a single file using @import.
 
 <h2>Mixins</h2>
+
+SASS mixins let you create CSS code that can be reused throught the website
+To declare a mixin, you use the @mixin keyword
+
+To use a mixin somewhere, you use the @include keyword.
+
+<h2>Functions</h2>
+
+Sass also lets you use built-in functions or define your own functions.
+Like mixins, functions help you reuse code that perform a particular task.
+
+<h2>Extend</h2>
+
+Sass lets you use the @extend directive to share a set of CSS properties between selectors.
+
+It is useful if you have almost indentically styled eleemnts that only differ in some small details.
